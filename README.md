@@ -8,6 +8,8 @@ Yada Yada ...
 
 Yada yada
 
+More Yada here
+
 ## What is Gizmo? ##
 
 Gizmo is another feature ...
