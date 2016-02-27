@@ -7,3 +7,7 @@ Yada Yada ...
   * Other
 
 Yada yada
+
+## What is Gizmo? ##
+
+Gizmo is another feature ...
